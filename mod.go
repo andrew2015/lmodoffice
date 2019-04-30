@@ -20,6 +20,7 @@ misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 */
 
+// A simple Lua module for converting various office documents into OOXML format files.
 package lmodoffice
 
 import (

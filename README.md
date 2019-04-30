@@ -1,6 +1,6 @@
 # lmodoffice
 
-A simple [lua](https://github.com/ofunc/lua) module for converting various office documents into OOXML format files.
+A simple [Lua](https://github.com/ofunc/lua) module for converting various office documents into OOXML format files.
 
 ## Usage
 
